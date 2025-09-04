@@ -1,4 +1,4 @@
-# MANOVA: The Effect of Adding Eri Pupae Cheddar Cheese to Tofu Nuggets on Physical, Nutritional, and Sensory Characteristics
+# Analysis of The Effect of Adding Eri Pupae Cheddar Cheese to Tofu Nuggets on Physical, Nutritional, and Sensory Characteristics with MANOVA
 ### Summary
 
 The study **“Pengaruh Penambahan Keju Cedar Pupa Eri pada Nugget Tahu terhadap Karakteristik Fisik, Kandungan Gizi, dan Sensori”** examined five treatments (P1: control, P2: tofu + 5 g cheddar, P3: tofu + 10 g cheddar, P4: tofu + 5 g cheddar + 4% eri pupae, P5: tofu + 10 g cheddar + 4% eri pupae).
